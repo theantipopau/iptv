@@ -1,0 +1,111 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US: TNT" tvg-logo="https://us.simpletowne.com:443/images/5f2d7eb8514478410abd5fecb6ed6be2.png" group-title="USA Premium",US: TNT
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkFO-SbRCUHAQ1C6ZbNnDymrhx5UoFYofudLJvyevpSH0
+#EXTINF:-1 tvg-id="guide2go.49788.schedulesdirect.org" tvg-name="US: HGTV" tvg-logo="https://us.simpletowne.com:443/images/8d66dc821168187c898d1d2f463b4dfd.png" group-title="USA Premium",US: HGTV
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkL_Fz-CMdkuifU2LPECLNwywBA3iTkBQEHsFYoXS7S2a
+#EXTINF:-1 tvg-id="guide2go.50747.schedulesdirect.org" tvg-name="US: Food Network" tvg-logo="https://us.simpletowne.com:443/images/69d21f7b62550c9f90d92aca253c19d0.png" group-title="USA Premium",US: Food Network
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkPw7TuQirlbcyAzpXnX1SuMBRqRT1AwXef25iW7TkrU6
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US: History Channel" tvg-logo="http://fanc.tmsimg.com/assets/s57708_h3_aa.png" group-title="USA Premium",US: History Channel
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkDXl5YWbL_83ChuP2lOWdxGL4GtxcXOlPcY34QLF1f3P
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US: Comedy Central" tvg-logo="https://us.simpletowne.com:443/images/jruuZbMicD_uSHUpv_upNJtWjxoMxnR6hKYyoXqYqrRFIIyfjZxGvoQTHNzj-Lr4ir_BnuKAq0N0Jxkf_b5xbg.png" group-title="USA Premium",US: Comedy Central
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkE2Ibfv4IDQb0eP4XAwLaY09pHJQnWIY9MBEAXRUPWC6
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US: National Geographic" tvg-logo="https://us.simpletowne.com:443/images/752e5f1173b5f2cf4e1f6166a616e217.png" group-title="USA Premium",US: National Geographic
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkLijIUJR7C9Lr2jkYrT2virzMhUVRIicFrM3t1kv4wkh
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 BLUEY" tvg-logo="" group-title="24/7 Streams",24/7 BLUEY
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkCk5reXX28zdfrgs5diaq6A
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 JAMES BOND" tvg-logo="" group-title="24/7 Streams",24/7 JAMES BOND
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkM8966pIMmTKPK9R3mLYwCU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 SIMPSONS" tvg-logo="" group-title="24/7 Streams",24/7 SIMPSONS
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkLNKWwhdPoVr2Wtp5QTv_Fk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FAST AND FURIOUS" tvg-logo="" group-title="24/7 Streams",24/7 FAST AND FURIOUS
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkENZUsEVDBqokhDHMW800ug
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 CRIMINAL MINDS" tvg-logo="" group-title="24/7 Streams",24/7 CRIMINAL MINDS
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkLNQmbooEBxEHijwperFfmE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 LAW & ORDER" tvg-logo="" group-title="24/7 Streams",24/7 LAW & ORDER
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkE6_7FSuws2o3PBUziwg3Bs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 ADAM SANDLER" tvg-logo="" group-title="24/7 Streams",24/7 ADAM SANDLER
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkEXutyDPsUB4eIehH_BCpzA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 COMEDY MOVIES" tvg-logo="" group-title="24/7 Streams",24/7 COMEDY MOVIES
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkN2xJI95ErFyhRV0_B4hujY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 WILL FERRELL MOVIES" tvg-logo="" group-title="24/7 Streams",24/7 WILL FERRELL MOVIES
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkHpDCMAWupyjjnN2r0tlyaI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 DISNEY Movies" tvg-logo="" group-title="24/7 Streams",24/7 DISNEY Movies
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkB3d4jjW9bM1b24_i7zn468
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 THE AVENGERS" tvg-logo="" group-title="24/7 Streams",24/7 THE AVENGERS
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkI_g8nMsBH1GcOp2Aj1H35Q
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 TOP GEAR" tvg-logo="" group-title="24/7 Streams",24/7 TOP GEAR
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkCnj8mZNUR0o0f8L9X-FQE0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Chicago PD" tvg-logo="" group-title="24/7 Streams",24/7 Chicago PD
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkNdvyw3hpploxXeCKYDUub0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FORENSIC FILES" tvg-logo="" group-title="24/7 Streams",24/7 FORENSIC FILES
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkNXXzS5kMPop3_Yt_dzluvk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 WAR MOVIES" tvg-logo="" group-title="24/7 Streams",24/7 WAR MOVIES
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkBN6mF_rEyGMyznCGwNVYlY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 PAW PATROL" tvg-logo="" group-title="24/7 Streams",24/7 PAW PATROL
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkBwfPlZ82JHidcfKqssR3KA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Fox Sports 501" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="Australia",AU: Fox Sports 501
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkC-9wwCrZKD82nWYssXPGn5ZT9dqsiznClDchnr1Cgro
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Fox Sports 502" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="Australia",AU: Fox Sports 502
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkMWYsZzdRQW2eCUVIX3YXh7oP70mxfvSwCizDqSqF6vr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Fox Sports 503" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="Australia",AU: Fox Sports 503
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkKQcGScfLKm-RvSYOhD692fysscKpX930g0N3uet2wbX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Fox Sports 504" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="Australia",AU: Fox Sports 504
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkNOQVCW7vVZG7upwRuJL6ZQxmHbGCZs-l6UlkM63WhDN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Fox Sports 505" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="Australia",AU: Fox Sports 505
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkFB8U_4GW-tS35A3b_njMWve8Wlmmq9DyxHwSH8tMuAe
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="Australia",AU: Fox Sports 507
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkKJmpgXqXZZDVtgkjlfgp3YKbTMmoj9sCf62xNc4isBY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Sky Racing 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4e83942572ad754a569a7626d7c3a3a5.png" group-title="Australia",AU: Sky Racing 1
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkJZSMa4i98-vK2jlrwoVBPp5N7zTvHnl44aC3XW6mhup
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dd9092b9b5cd89506da4d6ba6ab8939d.svg" group-title="Australia",AU: ESPN
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkDNWiDBMNSS5QwGMms6ZjbI6Unxp7NS_93QDS-KFNW_J
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/fb92789b21c6126b4225207c332bd82a.svg" group-title="Australia",AU: ESPN 2
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkGDANkBh32ORLzz5Y3QAfVh88TCojFEqHFaD2T_1F33b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: NZ Sky Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/5ed7e790e31357324d7aff357a1ea730.png" group-title="Australia",AU: NZ Sky Sport 1
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkNj_-2X5mGbN9Ntuz_NDeM8yrXJg9WZwpEmE7UG8HpHP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: NZ Sky Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/a6b9f0bf3612b084e53247b809cecc5c.png" group-title="Australia",AU: NZ Sky Sport 2
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkGXS_PUYt4OSfU-bjExF46mezUIMta2aiSNnPjaOe9vC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: NZ Sky Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0bf9466c8f578761dadc9ce1f99f5677.png" group-title="Australia",AU: NZ Sky Sport 3
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkFDHpydjVK5Hu93oB2Q6CgqJSDsRbuehC4Q_Lg90Reul
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU Channel 9 Brisbane (D)" tvg-logo="" group-title="Australia",AU Channel 9 Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkEzUQpvCiUSJexAqjehLww4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU TEN Brisbane (D)" tvg-logo="" group-title="Australia",AU TEN Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkP1B26_4N8DFg__wA28iAxM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU Outdoor Channel" tvg-logo="https://staging.tvapi.com.au/images/shelf/Outdoor.png" group-title="Australia",AU Outdoor Channel
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkJcgz2h52ZXYZEPkZGrjyw0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 9Life Brisbane (D)" tvg-logo="" group-title="Australia",AU 9Life Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkCi8nld3hUFVbhwVMYa5oUU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 7TWO Brisbane (D)" tvg-logo="" group-title="Australia",AU 7TWO Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkNCxx0auwmrgxoaz5ru385s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 7mate Brisbane (D)" tvg-logo="" group-title="Australia",AU 7mate Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkATu9SN97DvooXm7yFwCYfM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU ABC Brisbane (D)" tvg-logo="" group-title="Australia",AU ABC Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkP1Mxv0Vt34-7_RUy5bmHcs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 7flix Brisbane (D)" tvg-logo="" group-title="Australia",AU 7flix Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkNccJszwIPZIJkbH65ETdAY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Peach Brisbane (D)" tvg-logo="" group-title="Australia",AU 10 Peach Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkMqBKq3aKpiV9COPuPKY_8s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 9Go! Brisbane (D)" tvg-logo="" group-title="Australia",AU 9Go! Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkO1jvVB5by4hUlUrBT-28gM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 9Rush Brisbane (D)" tvg-logo="" group-title="Australia",AU 9Rush Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkDZroxRLtN_PbQ_TTPwUWMY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 9Gem Brisbane (D)" tvg-logo="" group-title="Australia",AU 9Gem Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkPGhpje3SKmNTJ2STTBwoZo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Bold Brisbane (D)" tvg-logo="" group-title="Australia",AU 10 Bold Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkMG6uql1iJppE-kputkXuE8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Shake Brisbane (D)" tvg-logo="" group-title="Australia",AU 10 Shake Brisbane (D)
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkDVagTWJccFrEjHjPfz9tdA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU Sky News Extra 1" tvg-logo="" group-title="Australia",AU Sky News Extra 1
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkEovfvBj_3sQOQCX5smZo40
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU Nickelodeon" tvg-logo="" group-title="Australia",AU Nickelodeon
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkAsB2TdKVfiVXba8w50acDo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Stan AU Event 1 ppv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: Stan AU Event 1 ppv
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkPUH_4FS0QKLgRuue1nzl8EyuDEDQxja7_qfgNukxwjE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Stan AU Event 2 ppv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: Stan AU Event 2 ppv
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkOdtZJ92YFtWI2_sVKOlkksmzN3knsvP92ciLbyW3TqE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Stan AU Event 3 ppv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: Stan AU Event 3 ppv
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkAuGLvzTp3yq0DWchoE3asIT6YaSNJNtZ320paDcWcSo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Stan AU Event 4 ppv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: Stan AU Event 4 ppv
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkCL1patU9vOsDzyGVbpzA04taIYOoQG5b0UNC4eKDmGb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU: Stan AU Event 5 ppv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: Stan AU Event 5 ppv
+http://thunderbolt-40gbps.com/play/e0JEhGII4VfqAbqoW_nFkHP-9rrG4DRDi8y5qesEW8DluBTXBmSBZwGR2DGFH7cP
